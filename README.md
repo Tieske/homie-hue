@@ -1,12 +1,11 @@
-This is a template for new Lua projects. It features document generation, testing, linting and a working CI setup.</br>IMPORTANT: please ignore information below, and [follow instructions here](https://tieske.github.io/project.lua/topics/01-introduction.md.html).</br></br>
-[![Unix build](https://img.shields.io/github/workflow/status/[github-account-name]/[repo-name]/Unix%20build?label=Unix%20build&logo=linux)](https://github.com/[github-account-name]/[repo-name]/actions/workflows/unix_build.yml)
-[![Coveralls code coverage](https://img.shields.io/coveralls/github/[github-account-name]/[repo-name]?logo=coveralls)](https://coveralls.io/github/[github-account-name]/[repo-name])
-[![Lint](https://github.com/[github-account-name]/[repo-name]/workflows/Lint/badge.svg)](https://github.com/[github-account-name]/[repo-name]/actions/workflows/lint.yml)
-[![SemVer](https://img.shields.io/github/v/tag/[github-account-name]/[repo-name]?color=brightgreen&label=SemVer&logo=semver&sort=semver)](CHANGELOG.md)
+[![Unix build](https://img.shields.io/github/workflow/status/Tieske/homie-hue/Unix%20build?label=Unix%20build&logo=linux)](https://github.com/Tieske/homie-hue/actions/workflows/unix_build.yml)
+[![Coveralls code coverage](https://img.shields.io/coveralls/github/Tieske/homie-hue?logo=coveralls)](https://coveralls.io/github/Tieske/homie-hue)
+[![Lint](https://github.com/Tieske/homie-hue/workflows/Lint/badge.svg)](https://github.com/Tieske/homie-hue/actions/workflows/lint.yml)
+[![SemVer](https://img.shields.io/github/v/tag/Tieske/homie-hue?color=brightgreen&label=SemVer&logo=semver&sort=semver)](CHANGELOG.md)
 
-# [repo-name]
+# homie-hue
 
-[short-description]
+Bridge to expose Philips Hue devices as Homie devices
 
 ## License and copyright
 
@@ -14,7 +13,7 @@ See [LICENSE.md](LICENSE.md)
 
 ## Documentation
 
-See [online documentation](https://[github-account-name].github.io/[repo-name]/)
+See [online documentation](https://Tieske.github.io/homie-hue/)
 
 ## Changelog
 

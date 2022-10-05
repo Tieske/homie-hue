@@ -1,6 +1,6 @@
-project='[repo-name]'
-title='[module-name] docs'
-description='[short-description]'
+project='homie-hue'
+title='homie-hue docs'
+description='Bridge to expose Philips Hue devices as Homie devices'
 
 format='markdown'
 use_markdown_titles = true
