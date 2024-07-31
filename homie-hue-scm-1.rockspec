@@ -34,6 +34,12 @@ build = {
     ["homie-hue.init"] = "src/homie-hue/init.lua",
   },
 
+  install = {
+    bin = {
+      homiehue = "bin/homiehue.lua",
+    }
+  },
+
   copy_directories = {
     -- can be accessed by `luarocks homie-hue doc` from the commandline
     "docs",
